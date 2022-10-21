@@ -13,14 +13,9 @@ We retrieved approximately 100 health and demographic related variables for the 
 With a current focus on COVID-19 and its relationship with cardiovascular outcomes, the harmonised data has supported a wide range of research activities across the UK, and the method can be scaled up and expanded to serve many more projects in the future.
 
 ## How to cite this work
-> Citation goes here
+> Citation details to follow
 
-## Contents
-
-* [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU005_03/tree/main/england)
-* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU005_03/tree/main/wales)
-* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU005_03/tree/main/outside)
-* [View the final ouput of our analysis](https://github.com/BHFDSC/CCU005_03/tree/main/outside/output)
+The preprint is available [here](https://doi.org/10.21203/rs.3.rs-2109276/v1)
 
 ## Project approval
 
