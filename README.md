@@ -1,4 +1,4 @@
-# Harmonising electronic health record data for reproducible research: challenges and lessons learnt in a UK-wide COVID-19 research collaboration
+# Harmonising electronic health records for reproducible research: challenges, solutions and recommendations from a UK-wide COVID-19 research collaboration
 
 ## Project description
 
@@ -13,9 +13,7 @@ We retrieved approximately 100 health and demographic related variables for the 
 With a current focus on COVID-19 and its relationship with cardiovascular outcomes, the harmonised data has supported a wide range of research activities across the UK, and the method can be scaled up and expanded to serve many more projects in the future.
 
 ## How to cite this work
-> Citation details to follow
-
-The preprint is available [here](https://doi.org/10.21203/rs.3.rs-2109276/v1)
+Abbasizanjani, H., Torabi, F., Bedston, S. et al. Harmonising electronic health records for reproducible research: challenges, solutions and recommendations from a UK-wide COVID-19 research collaboration. BMC Med Inform Decis Mak 23, 8 (2023). https://doi.org/10.1186/s12911-022-02093-0
 
 ## Project approval
 
